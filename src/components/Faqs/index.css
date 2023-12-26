@@ -1,0 +1,20 @@
+/* Write your code here. */
+
+.bg-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.title {
+  color: #cb8805;
+  font-family: Roboto;
+  font-size: 48px;
+  text-align: center;
+}
+
+.faq-container {
+  width: 80%;
+  list-style-type: none;
+  padding: 15px;
+}

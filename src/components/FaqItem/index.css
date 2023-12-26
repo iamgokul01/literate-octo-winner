@@ -1,0 +1,33 @@
+/* Write your code here. */
+
+.faq-card-item {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+  margin: 15px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+  font-family: Roboto;
+}
+
+.ques-expand-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+
+.expand-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.seperator {
+  width: 100%;
+}
